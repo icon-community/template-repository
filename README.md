@@ -76,7 +76,7 @@ If you want to contribute, be sure to review the [contributing guidelines][contr
 
 We use GitHub Issues for tracking requests and bugs, and Github Discussions for general questions and discussion.
 
-The ICON project strives to abide by generally accepted best practices in open-source software development.
+The <!-- REPO --> project strives to abide by generally accepted best practices in open-source software development.
 
 ## License
 
