@@ -1,3 +1,5 @@
+*EXAMPLE using Contributor Covenant Code of Conduct*
+
 CONTRIBUTOR COVENANT CODE OF CONDUCT
 Our Pledge
 
